@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.homepage         = 'https://www.mentamob.com/'
     s.license          = "Custom"
     s.author           = { 'wzy' => 'wangzeyong@advlion.com' }
-    s.source = { :http => 'https://bj-menta-sdk.oss-cn-beijing.aliyuncs.com/iOS/MentaVlionAdapter/4.00.03/MentaVlionAdapter-4.00.03-20250317150813.tar.bz2' } 
+    s.source = { :http => 'https://bj-menta-sdk.oss-cn-beijing.aliyuncs.com/iOS/MentaVlionAdapter/4.00.03/MentaVlionAdapter-4.00.03-20250327204349.tar.bz2' } 
   
     s.ios.deployment_target = '11.0'
     s.frameworks = 'UIKit', 'MapKit', 'MediaPlayer', 'CoreLocation', 'AdSupport', 'CoreMedia', 'AVFoundation', 'CoreTelephony', 'StoreKit', 'SystemConfiguration', 'MobileCoreServices', 'CoreMotion', 'Accelerate','AudioToolbox','JavaScriptCore','Security','CoreImage','AudioToolbox','ImageIO','QuartzCore','CoreGraphics','CoreText'
@@ -19,5 +19,8 @@ Pod::Spec.new do |s|
     s.dependency 'MentaVlionSDK', '~> 4.00.03'
     s.dependency 'MentaIFLYSDK', '~> 4.5.2'
     s.dependency 'YouTuiAdSDK_SPEC', '2.12.4'
+    s.dependency 'QySdk', '1.13.010'
+    s.dependency 'ADRanFengSDKPub', '2.2.9.1'
+    s.dependency 'AdWangMaiSDK', '6.1.4'
   
   end
