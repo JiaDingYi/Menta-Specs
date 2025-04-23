@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author       = { "wzy" => "wangzeyong@advlion.com" }
   s.platform     = :ios, "11.0" 
   s.ios.deployment_target = '11.0'
-  s.source = { :http => 'https://bj-menta-sdk.oss-cn-beijing.aliyuncs.com/iOS/MentaVlionSDK/4.00.05.1/MentaVlionSDK-4.00.05.1-20250423115107.tar.bz2' } 
+  s.source = { :http => 'https://bj-menta-sdk.oss-cn-beijing.aliyuncs.com/iOS/MentaVlionSDK/4.00.05.1/MentaVlionSDK-4.00.05.1-20250423135957.tar.bz2' } 
 
   s.vendored_frameworks = '*.xcframework'
                    
