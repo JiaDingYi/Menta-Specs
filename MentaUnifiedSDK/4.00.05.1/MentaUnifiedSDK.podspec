@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.mentamob.com/'
   s.license          = "Custom"
   s.author           = { 'wzy' => 'wangzeyong@advlion.com' }
-  s.source = { :http => 'https://bj-menta-sdk.oss-cn-beijing.aliyuncs.com/iOS/MentaUnifiedSDK/4.00.05.1/MentaUnifiedSDK-4.00.05.1-20250423114219.tar.bz2' } 
+  s.source = { :http => 'https://bj-menta-sdk.oss-cn-beijing.aliyuncs.com/iOS/MentaUnifiedSDK/4.00.05.1/MentaUnifiedSDK-4.00.05.1-20250423115012.tar.bz2' } 
 
   s.ios.deployment_target = '11.0'
   s.frameworks = 'StoreKit', 'SafariServices', 'MessageUI', 'CoreMedia', 'CoreMotion', 'SystemConfiguration', 'CoreLocation', 'CoreTelephony', 'AVFoundation'
