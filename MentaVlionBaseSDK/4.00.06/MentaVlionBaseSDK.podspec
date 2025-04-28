@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage    = "https://www.mentamob.com"
   s.license     = "Custom"
   s.author      = { "advlion" => "wangzeyong@advlion.com" }
-  s.source = { :http => 'https://bj-menta-sdk.oss-cn-beijing.aliyuncs.com/iOS/MentaVlionBaseSDK/4.00.06/MentaVlionBaseSDK-4.00.06-20250424182935.tar.bz2' } 
+  s.source = { :http => 'https://bj-menta-sdk.oss-cn-beijing.aliyuncs.com/iOS/MentaVlionBaseSDK/4.00.06/MentaVlionBaseSDK-4.00.06-20250428113556.tar.bz2' } 
   s.platform    = :ios 
   s.ios.deployment_target = '11.0'
 
